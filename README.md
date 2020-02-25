@@ -1,2 +1,2 @@
-# crimap.github.io
+# http://crimap.github.io
 crimap
